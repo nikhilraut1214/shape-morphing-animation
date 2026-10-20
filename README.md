@@ -171,27 +171,13 @@ shape-morphing-animation/
 
 Add your demo video or a link to it after uploading it (see [Demo video](#demo-video)).
 
-## Demo video
+## 🎬 Demo Video
 
-A recording of the complete animation can be included with the GitHub project.
+Watch the demonstration of the Shape Morphing Animation project, showcasing transitions between Square, Triangle, Star, Circle, and Heart.
 
-**Option A — Link to a video hosted elsewhere**
-Replace the placeholder below with your actual video URL:
+▶️ **[Watch the Shape Morphing Animation Demo](media/shape-morphing-demo.mp4)**
 
-```text
-[Watch the Shape Morphing Animation Demo](PASTE_YOUR_VIDEO_URL_HERE)
-```
-
-**Option B — Add the video to the repository**
-Create a `media/` folder and add a reasonably sized video, for example `media/shape-morphing-demo.mp4`. Then add this Markdown to the README:
-
-```markdown
-## Demo video
-
-[Watch or download the demo video](media/shape-morphing-demo.mp4)
-```
-
-GitHub can preview some video formats in repository Markdown, but support and playback can vary. Large video files may exceed GitHub's ordinary file-size limits or make cloning the repository slow. For a large recording, use a video-hosting service or Git LFS and link to the video instead. Do not commit a video until you have checked its file size and any sharing/privacy settings.
+The demo highlights the animation, interactive controls, and computer graphics algorithms implemented in this project.
 
 ## Learning outcomes
 
