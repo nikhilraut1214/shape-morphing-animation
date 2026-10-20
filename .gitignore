@@ -1,0 +1,30 @@
+# Compiled executables
+*.exe
+morph
+morph.exe
+a.out
+
+# Object and build files
+*.o
+*.obj
+*.out
+/build/
+/bin/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local video recordings (uncomment if you do not want recordings tracked)
+# media/*.mp4
+# media/*.mov
